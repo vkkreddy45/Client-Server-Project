@@ -37,7 +37,7 @@ class MultipleSwitch(Topo):
 		h7=self.addHost('h7',mac="00:00:00:00:00:08")
 		h8=self.addHost('h8',mac="00:00:00:00:00:09")
 		h9=self.addHost('h9',mac="00:00:00:00:00:10")
-		"adding 9 switches"
+		"adding 10 switches"
 		s0 = self.addSwitch('s0')
 		s1 = self.addSwitch('s1')
 		s2 = self.addSwitch('s2')
